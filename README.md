@@ -1,5 +1,7 @@
 # spring-boot-cloud-eureka-path-variable-issue
 
+https://github.com/spring-cloud/spring-cloud-netflix/issues/1252
+https://github.com/spring-projects/spring-boot/issues/6629
 https://gitter.im/spring-projects/spring-boot?at=57acee60ae838f6f56988f67
 
 Relvant class: `my.test.TestRESTController`
